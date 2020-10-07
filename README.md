@@ -12,10 +12,10 @@ then boot to it on a x64 computer of your choice then enter user as the username
 you can change the password later.
 ------------------------------------------------------------------------------------------------------------------
 requirements:
-x64 bit cpu or core 2 duo
-11 GB flash drive or more
-linux compatible bios and usb bootable support 
+x64 bit cpu or core 2 duo.
+11 GB flash drive or more.
+linux compatible bios and usb bootable support .
 
-v2.0 - 2020 -
+v2.0 - 2020 -.
 
 let us know if there are issues with meowgle linux
