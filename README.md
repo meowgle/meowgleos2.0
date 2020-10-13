@@ -1,15 +1,9 @@
 # meowgle os 2.0
 ------------------------------------------------------------------------------------------------------------------
-before download you must install virualbox
-https://www.virtualbox.org/wiki/Downloads
-once installed download the .zip 
-then unpack the zip then unpack the meowgleos zip and create a vm
-then click use a existing virtual disk image and select the meowgle os 2.0 vdi
-then once created unpack the clonezilla zip then select the extracted clonezilla.iso
-then click start mash f12 then press c at the top click devices then usb then select the flash drive
-then once at option click device-device then click enter once the disk is cloned eject your flash drive
-then boot to it on a x64 computer of your choice then enter user as the username and 12345678 as the password
-you can change the password later.
+download raw image : https://drive.google.com/file/d/1IolPc7rU6y0vCDt_xgohEUWR7b4_aBKr/view
+then restore the raw image once done at the login screen press F1 to switch to desktop
+Username : user
+password : 12345678
 ------------------------------------------------------------------------------------------------------------------
 requirements:
 x64 bit cpu or core 2 duo.
