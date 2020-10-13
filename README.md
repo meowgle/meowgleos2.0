@@ -13,3 +13,5 @@ linux compatible bios and usb bootable support .
 v2.0 - 2020 -.
 
 let us know if there are issues with meowgle linux
+
+*this is a raw image*
